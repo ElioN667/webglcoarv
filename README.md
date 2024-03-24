@@ -3,6 +3,8 @@
 
 Le document webgl.html contient la page obtenue à la suite de la réalisation des parties "Bases" et "Textures" de la documentation de ThreeJS (https://threejs.org/manual/)
 
+Le code se trouve sur le dépot https://github.com/ElioN667/webglcoarv
+
 <h2 style="text-align: center;"> Bilan du tutoriel </h2>
 
 J'ai trouvé ce tutoriel intéressant. Cependant il nécessite des bases en HTMl et JS, que j'avais heureusement (c'est pour ça que j'ai pris ce sujet). La page "principes de base" m'a grandement aidé en rappelant des concepts évoqués lors du cours sur OpenGL mais parfois mal assimilé, comme le pipeline et le graphe de scène. 
